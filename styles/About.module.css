@@ -1,0 +1,9 @@
+.aboutcontainer {
+  max-width: 90%;
+}
+.backbutton {
+  color: #0070f3;
+}
+.backbutton:hover {
+  color: #3e93f4;
+}
