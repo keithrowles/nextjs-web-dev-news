@@ -4,7 +4,7 @@ export const articles = [
     title: 'New to the web platform in December',
     excerpt:
       'Discover some of the interesting features that have landed in stable...',
-    body: 'In December 2023 Firefox 121, Chrome 120, and Safari 17.2 became stable. This post looks at what that means for the web platform.  Relaxed parsing for CSS Nesting Chrome 120 and Safari 17.2 include relaxed parsing for CSS Nesting. As this has been supported in Firefox from version 117, this means that all major engines support this syntax change. The CloseWatcher API. Chrome 120 includes the CloseWatcher API, a new API for listening for and responding to close requests. These requests are triggered by the ESC key on desktop and the back gesture or button on Android, and can be tricky to implement well.',
+    body: 'In December 2023 Firefox 121, Chrome 120, and Safari 17.2 became stable. This post looks at what that means for the web platform. Relaxed parsing for CSS Nesting Chrome 120 and Safari 17.2 include relaxed parsing for CSS Nesting. As this has been supported in Firefox from version 117, this means that all major engines support this syntax change. The CloseWatcher API. Chrome 120 includes the CloseWatcher API, a new API for listening for and responding to close requests. These requests are triggered by the ESC key on desktop and the back gesture or button on Android, and can be tricky to implement well.',
   },
   {
     id: '2',
